@@ -1,4 +1,4 @@
-# VU-CS 2024 Bachelor Project Artifact for Thesis Project
+# VU-CS 2024 Bachelor Project Artifact for Thesis
 ## Formal Methods for AI Models in Healthcare
 
 This repository contains the artifact for the bachelor thesis exploring the use formal methods for AI Models in the healthcare sector. THis section aims to serve as a comprehensive guide for installing, utilizing and evaluating the artifact related to this thesis. The main cause was to explore the implementation of formal methods for five AI models, which were trained on a heart disease dataset. This aims to determine the usability of formal methods in development for AI models throughout the healthcare sector. The utilized dataset was obtained from the UCI repository and contains both categorical and numerical features, such as age and cholesterol levels, aiming to predict the presence of heart disease in a target population. For this project, seven formal properties were tested for each AI model:
